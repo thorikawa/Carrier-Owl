@@ -3,6 +3,14 @@ subject: 'cs'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        image segmentation: 3
+        semantic segmentation: 3
+        depth estimation: 3
+        differentiable rendering: 3
+        object tracking: 3
+        3d animation: 2
+        human body: 2
+        depth: 1
+        object tracking: 1
+        audio synthesis: 1
+        video generation: 1
